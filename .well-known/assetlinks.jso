@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.majid88_create.twa",
+    "sha256_cert_fingerprints": ["64:6A:BC:13:72:D9:4D:6F:9D:66:FA:2B:4B:2B:6B:03:84:A3:11:E5:75:70:BC:41:43:03:A3:41:31:6D:49:A1"]
+  }
+}]
